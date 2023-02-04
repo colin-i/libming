@@ -1,2 +1,5 @@
 
-at dpkg-source like at ~/test will redo some things
+making new release will have 144,485 additions (removed autotools items) => ignore it or make a new launchpad
+
+make error, will be on launchpad on a flex created file (regarding ~144k additions, we create flex local then pushed)
+solution for a new release => uncompress orig, not pushing ~144k and resolve local<->launchpad

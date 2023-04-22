@@ -19,5 +19,3 @@ libming.so
 libtool
 configure
 .project
-.pc/
-debian/patches/
